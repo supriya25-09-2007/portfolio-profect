@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-color: #f3f0ff;
+}
+
+/* HERO */
+.hero {
+  background-color: #6a0dad;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h1 {
+  font-size: 45px;
+}
+
+/* BUTTONS */
+.buttons {
+  margin-top: 20px;
+}
+
+/* MAIN BUTTON */
+.btn {
+  background-color: white;
+  color: #6a0dad;
+  padding: 10px 15px;
+  border: none;
+  margin: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* SECOND BUTTON */
+.btn2 {
+  background-color: #ff4da6;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  margin: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* CARDS */
+.card {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  text-align: center;
+}
+
+/* BRIGHT COLORS */
+.blue {
+  background-color: #1e90ff;
+}
+
+.pink {
+  background-color: #ff1493;
+}
+
+.purple {
+  background-color: #8a2be2;
+}
+
+.green {
+  background-color: #32cd32;
+}
+
+
+
+
